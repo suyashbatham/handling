@@ -1,0 +1,18 @@
+Exception Handling :Error detecting during execution are called exceptions.
+                    use try,except,finally and else to handle exceptions.
+
+else: Execute when no exception occour.
+finally : it is always executed.
+
+raise keyword :  it is used to raise an Exception/Error and stops the execution of the programs.
+                  It is very useful when you want to work with the input validations.
+
+with open statement : It is used when a pair of statements is to be executed with a block of code in between.
+
+tell() : It is used to print the byte number at which the file pointer exists.
+seek() : seek() method which enables us to modify the file pointer position externally.
+
+OS module : This module provides us the functions that are involved in file processing operations
+            like renaming, deleting, etc.
+
+next(): It returns the next line from the file.
